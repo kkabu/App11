@@ -13,7 +13,7 @@
                 <AppBarButton Icon="Add" Label="Add" Click="Add_Click"/>
                 <AppBarButton Icon="Upload" Label="Update" Click="Upd_Click"/>
                 <AppBarButton Icon="Sync" Label="Refresh" Click="Refresh_Click"/>
-                
+               
             </StackPanel>
         </AppBar>
     </Page.BottomAppBar>
