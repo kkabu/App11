@@ -39,6 +39,7 @@ namespace App11
         private void Add_Click(object sender, RoutedEventArgs e)
         {
            
+
         }
         private void Upd_Click(object sender, RoutedEventArgs e)
         {
