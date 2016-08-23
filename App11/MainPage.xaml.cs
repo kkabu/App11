@@ -40,5 +40,13 @@ namespace App11
         {
            
         }
+        private void Upd_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+        private void Refresh_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
